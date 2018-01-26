@@ -1,0 +1,23 @@
+
+.panel{
+    border: 2px solid #ebebeb;
+}
+.counter{
+    margin-top: 10px;
+}
+.counter button{
+    width:50px;
+    margin-right: 10px;
+}
+.counter span{
+    width: 30px;
+    display: inline-block;
+    text-align: center;
+}
+.board{
+    font-size: 14px;
+    margin-top: 20px;
+}
+.panel{
+    margin-bottom: 20px;
+}
